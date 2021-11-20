@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BDSQLite1</string>
+    <string name="et_codigo">Codigo de producto</string>
+    <string name="et_descripcion">Descripcion de producto</string>
+    <string name="et_precio">Precio de producto</string>
+    <string name="btn_Registrar">Registrar</string>
+    <string name="btn_Buscar">Buscar</string>
+    <string name="btn_Modificar">Modificar</string>
+    <string name="btn_Eliminar">Eliminar</string>
+</resources>
